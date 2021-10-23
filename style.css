@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&family=Source+Sans+Pro&display=swap");
+
+body {
+  background: url(img/background.jpg) no-repeat center;
+  background-size: cover;
+  color: white;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+}
+
+.judul {
+  font-family: "Oswald", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.jarak {
+  margin-left: -12px;
+}
+
+.enter {
+  margin-bottom: 5rem;
+}
+
+.enter1 {
+  margin-bottom: 5rem;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  align-items: center;
+  padding: 2px;
+  padding-top: 5px;
+}
